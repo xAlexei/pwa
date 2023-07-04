@@ -1,0 +1,9 @@
+NOTAS AVANZAMOS:
+
+Google Athenticator sigue en desarrollo, su implementacion es complicada y la documentación poca, se implementará después para optimizar tiempos. Se están buscando otras alternativas para verificación en dos pasos (SMS o email como alternativas)
+
+Se están buscando alternativas para subir la foto de perfil fuera de la base de datos, para que esta última no se vuelva lenta.
+
+La visibilidad de las reuniones está en el botón CALENDARIO en el menú lateral. Aún no se han creado las listas de asistencia.
+
+Cualquier duda, pueden enviarme mensaje c:

@@ -1,0 +1,15 @@
+{
+    "name": "AppAvanzamos",
+    "short_name": "Avanzamos",
+    "start_url": "index.php",
+    "display": "standalone",
+    "background-color": "#1F1F1F",
+    "theme-color": "#1F1F1F",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "avanzare.png",
+            "type": "image/png", "sizes": "512x512"
+        }
+    ]
+}
